@@ -1,0 +1,6 @@
+Course Intro:Ocean/Atmosphere Time Series Analysis
+Author Information:{J. M. Lilly}, {Planetary Science Institute}
+Updated January 29, 2022
+Course Url:http://www.jmlilly.net/course/index.html
+GitHub repo Url:https://github.com/jonathanlilly/time-series
+GitHub Zip File:https://github.com/jonathanlilly/time-series/archive/refs/heads/main.zip
